@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: © 2024 Ștefan-Iulian Alecu <uneven-shiver@protonmail.com>
+#
+# SPDX-License-Identifier: MIT OR Apache-2.0
+
+[package]
+name = "winterthur-lsp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
